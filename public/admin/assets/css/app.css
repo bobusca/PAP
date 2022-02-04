@@ -1,0 +1,21 @@
+/* app.css */
+.navegacao{
+    background-color: rgb(154, 171, 194);
+    color: black;
+}
+.rodape{
+    background-color: rgb(26, 42, 134);
+    color: white;
+}
+.nav-item{
+    text-decoration: none;
+    color: white;
+    margin: 0px 10px;
+}
+.nav-item:hoover{
+    text-decoration: underline;
+    color: white;
+}
+* {
+    box-shadow:inset 0px 0px 1px rgba(255,0,0,0.5);
+   } 
